@@ -1,0 +1,2 @@
+﻿"wallthickness"= .118in
+"floorThickness"= .220in
