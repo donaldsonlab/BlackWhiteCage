@@ -31,7 +31,7 @@ bw_floorBracket      |Optional 3D printed PLA/ABS [bw_floorBracket.stl](/STL/bw_
 M3x8mm Screws        |Off-the-shelf screws required for magnet mounts but optional for brackets if using plastic cement   |16|
 Plastic Cement       |Optional Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement                             |<1|
 Matte White Paint    |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
-Matte Black Paint    |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
+Matte Black Paint    |[Black, Rust-Oleum American Accents 2X Ultra Cover Ultra Matte Spray Paint, 12 oz](https://www.walmart.com/ip/Black-Rust-Oleum-American-Accents-2X-Ultra-Cover-Ultra-Matte-Spray-Paint-12-oz/488512581)|<1|
 Masking Tape         |Off-the-shelf tape for painting white and black parts                                               |<1|
 
 The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or 
