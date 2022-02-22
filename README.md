@@ -4,7 +4,7 @@ This repository contains 3D models, created in Solidworks, and fabrication files
 sections: one white with an open top and the other black and enclosed. The lid for the enclosed half integrates magnets for quick and quiet attachment and removal during 
 experiments. For modularity, the rest of the cage is assembled using 3D printed brackets.
 
-![alt text](/Images/BlackWhiteCage_openandclosed.JPG)
+![alt text](/Images/BlackWhiteBox_openandclosed.JPG)
 
 The walls of this chamber are laser cut out of clear 0.118" acrylic sheets and the floor is cut out of 0.22" acrylic for stability. They are then painted matte white and matte
 black accordingly and assembled using 3D printed brackets. These brackets, along with the necessary fasteners, may be ommited if an adhesive
