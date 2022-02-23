@@ -17,7 +17,7 @@ cutters are located in the [DXF](/DXF) directory. To optimize the nesting of par
 |       Bill of Materials      |
 --------------------------------
 |Item No.|Part|Description|Quantity|
-----------------------|------------------------------------------------------------------------|-|
+-|----------------------|------------------------------------------------------------------------|-|
 1|bw_floor             |Laser cut [bw_floor.dxf](/DXF/bw_floor.dxf)                                                         |1|
 2|bw_sideWall          |Laser cut [bw_sideWall.dxf](/DXF/bw_sideWall.dxf)                                                   |2|
 3|bw_frontBack         |Laser cut [bw_frontBack.dxf](/DXF/bw_frontBack.dxf)                                                 |2|
