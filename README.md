@@ -12,9 +12,9 @@ is used instead, making the assembly permanent. This is the method used for the 
 cutters are located in the [DXF](/DXF) directory. To optimize the nesting of parts on as few acrylic sheets as possible, we use an open source software called 
 [Deepnest](https://deepnest.io/). The L-brackets, floor brackets, and magnet mounts are 3D printed on a Zortrax M200 Plus FDM printer with PLA, ABS, or Z-ULTRAT filament. The 
 .STL files for printing are in the [STL](/STL) directory.
-
-<img src="https://github.com/donaldsonlab/BlackWhiteCage/blob/main/Images/BlackWhiteBox_Assembly.jpg" width=50% height=50%>
-
+<p align="center"
+  <img src="https://github.com/donaldsonlab/BlackWhiteCage/blob/main/Images/BlackWhiteBox_Assembly.jpg" width=50% height=50%>
+</p>
 
 |       Bill of Materials      |
 --------------------------------
