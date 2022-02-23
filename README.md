@@ -36,7 +36,9 @@ Item No.|Part|Description|Quantity|
 
 The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or 
 *flat*, although matte finishes can typically withstand more cleaning. The magnets can also be sourced elsewhere, but the mounts are fitted for 15x2mm disk magnets.
+
 ![alt text](/Images/BlackWhiteBox_Assembly.jpg)
+
 **Note:** If the wall 
 thickness is adjusted, the 3D models and .DXF files must also be modified. This can be done manually in the part files or by using the text file, 
 [blackWhiteEquations.txt](blackWhiteEquations.txt), which contains equations used for each Solidworks part. Simply change the "WallThickness" and/or "FloorThickness" to the 
