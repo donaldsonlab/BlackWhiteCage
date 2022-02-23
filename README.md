@@ -18,21 +18,21 @@ cutters are located in the [DXF](/DXF) directory. To optimize the nesting of par
 --------------------------------
 |Item No.|Part|Description|Quantity|
 ----------------------|------------------------------------------------------------------------|-|
-|1|bw_floor             |Laser cut [bw_floor.dxf](/DXF/bw_floor.dxf)                                                         |1|
-|2|bw_sideWall          |Laser cut [bw_sideWall.dxf](/DXF/bw_sideWall.dxf)                                                   |2|
-|3|bw_frontBack         |Laser cut [bw_frontBack.dxf](/DXF/bw_frontBack.dxf)                                                 |2|
-|4|bw_doorway           |Laser cut [bw_doorway.dxf](/DXF/bw_doorway.dxf)                                                     |2|
-|5|bw_door              |Laser cut [bw_door.dxf](/DXF/bw_door.dxf)                                                           |1|
-|6|bw_lid               |Laser cut [bw_door.dxf](/DXF/bw_door.dxf)                                                           |1|
-|7|bw_magnetMount_Lid   |3D printed PLA/ABS [bw_magnetMount_Lid.stl](/STL/bw_magnetMount_Lid.stl)                            |2|
-|8|bw_magnetMount_Wall  |3D printed PLA/ABS [bw_magnetMount_Wall.stl](/STL/bw_magnetMount_Wall.stl)                          |2|
-|9|15x2mm Disk Magnets  |[Off-the-shelf 15x2mm refrigerator magnets](https://www.amazon.com/DIYMAG-Refrigerator-Magnets-Premium-Brushed/dp/B07G48647D) |4|
-|10|bw_LBracket         |Optional 3D printed PLA/ABS [bw_LBracket.stl](/STL/bw_LBracket.stl)                                 |4|
-|11|bw_floorBracket     |Optional 3D printed PLA/ABS [bw_floorBracket.stl](/STL/bw_floorBracket.stl)                         |4|
-|12|M3x8mm Screws       |Off-the-shelf screws required for magnet mounts but optional for brackets if using plastic cement   |16|
-|13|Plastic Cement      |Optional Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement                             |<1|
-|14|Matte White Paint   |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
-|15|Matte Black Paint   |[Black, Rust-Oleum American Accents 2X Ultra Cover Ultra Matte Spray Paint, 12 oz](https://www.walmart.com/ip/Black-Rust-Oleum-American-Accents-2X-Ultra-Cover-Ultra-Matte-Spray-Paint-12-oz/488512581)|<1|
+1|bw_floor             |Laser cut [bw_floor.dxf](/DXF/bw_floor.dxf)                                                         |1|
+2|bw_sideWall          |Laser cut [bw_sideWall.dxf](/DXF/bw_sideWall.dxf)                                                   |2|
+3|bw_frontBack         |Laser cut [bw_frontBack.dxf](/DXF/bw_frontBack.dxf)                                                 |2|
+4|bw_doorway           |Laser cut [bw_doorway.dxf](/DXF/bw_doorway.dxf)                                                     |2|
+5|bw_door              |Laser cut [bw_door.dxf](/DXF/bw_door.dxf)                                                           |1|
+6|bw_lid               |Laser cut [bw_door.dxf](/DXF/bw_door.dxf)                                                           |1|
+7|bw_magnetMount_Lid   |3D printed PLA/ABS [bw_magnetMount_Lid.stl](/STL/bw_magnetMount_Lid.stl)                            |2|
+8|bw_magnetMount_Wall  |3D printed PLA/ABS [bw_magnetMount_Wall.stl](/STL/bw_magnetMount_Wall.stl)                          |2|
+9|15x2mm Disk Magnets  |[Off-the-shelf 15x2mm refrigerator magnets](https://www.amazon.com/DIYMAG-Refrigerator-Magnets-Premium-Brushed/dp/B07G48647D) |4|
+10|bw_LBracket         |Optional 3D printed PLA/ABS [bw_LBracket.stl](/STL/bw_LBracket.stl)                                 |4|
+11|bw_floorBracket     |Optional 3D printed PLA/ABS [bw_floorBracket.stl](/STL/bw_floorBracket.stl)                         |4|
+12|M3x8mm Screws       |Off-the-shelf screws required for magnet mounts but optional for brackets if using plastic cement   |16|
+13|Plastic Cement      |Optional Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement                             |<1|
+14|Matte White Paint   |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
+15|Matte Black Paint   |[Black, Rust-Oleum American Accents 2X Ultra Cover Ultra Matte Spray Paint, 12 oz](https://www.walmart.com/ip/Black-Rust-Oleum-American-Accents-2X-Ultra-Cover-Ultra-Matte-Spray-Paint-12-oz/488512581)|<1|
 
 The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or 
 *flat*, although matte finishes can typically withstand more cleaning. The magnets can also be sourced elsewhere, but the mounts are fitted for 15x2mm disk magnets.
