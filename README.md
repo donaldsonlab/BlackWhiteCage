@@ -13,6 +13,8 @@ cutters are located in the [DXF](/DXF) directory. To optimize the nesting of par
 [Deepnest](https://deepnest.io/). The L-brackets, floor brackets, and magnet mounts are 3D printed on a Zortrax M200 Plus FDM printer with PLA, ABS, or Z-ULTRAT filament. The 
 .STL files for printing are in the [STL](/STL) directory.
 
+![alt text](/Images/BlackWhiteBox_Assembly.jpg)
+
 
 |       Bill of Materials      |
 --------------------------------
@@ -36,8 +38,6 @@ cutters are located in the [DXF](/DXF) directory. To optimize the nesting of par
 
 The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or 
 *flat*, although matte finishes can typically withstand more cleaning. The magnets can also be sourced elsewhere, but the mounts are fitted for 15x2mm disk magnets.
-
-![alt text](/Images/BlackWhiteBox_Assembly.jpg)
 
 **Note:** If the wall 
 thickness is adjusted, the 3D models and .DXF files must also be modified. This can be done manually in the part files or by using the text file, 
